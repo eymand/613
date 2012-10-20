@@ -11,17 +11,17 @@ course:
   # E.g., for http://example.com/530/ you'd enter 530/ for base_path:
   base_path:
   # E.g., ENGL 536
-  number:
-  name:
+  number: ENGH 613
+  name: Technical Communication
   # Keep the description brief, about 140 chars
-  description:
+  description: A graduate course in technical communication
   # E.g., Spring 2013:
-  term:
-  instructor:
-    name:
-    office:
+  term: Spring 2013
+  instructor: 
+    name: Douglas Eyman
+    office: Robinson A 405B
     office_hours:
-    email:
+    email: deyman@gmu.edu
     phone:
     # No @ before your username; e.g., twitter, not @twitter
-    twitter:
+    twitter: eymand
